@@ -1,0 +1,30 @@
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in/
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+#Ignore thumbnails created by Windows
+Thumbs.db
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.tlb
+*.tlh
+*.lib
+[Tt]est[Rr]esult*
+.vs/
+#Nuget packages folder
+packages/
